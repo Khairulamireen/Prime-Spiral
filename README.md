@@ -2,7 +2,6 @@
 
 Also known as Ulam Spiral.
 It is a collection of prime numbers which are being constructed in a square spiral.
-
 <br />
 This is based on a tutorial video on Youtube but I've re-created it using Python.
 <br />
